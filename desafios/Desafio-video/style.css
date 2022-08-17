@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+ul{
+    list-style: none;
+    justify-content: center;
+}
+
+body{
+    background-color: grey;
+}
+
+h1{
+   color: white;
+   background-color: blue;
+
+}
+
