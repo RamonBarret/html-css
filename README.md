@@ -4,11 +4,12 @@
   <img alt="html-css" src=".github/html-css.jpg" />
 </p>
 
-## Curso de HTML5 e CSS3 do Curso em Vídeo ▶
+## Curso de HTML5 e CSS3 📘
+### Curso em Vídeo ▶
 
 
 <p align="center">
-  <img alt="curso" src=".github/curso_html-css.jpg">
+  <img alt="curso" src=".github/curso_html-css.png">
 </p>
 
 - [x] Estudo sobre a Linguagem de Marcação HTML5 e Linguagem de Estilização CSS3
