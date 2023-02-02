@@ -25,7 +25,13 @@
 ## Meu Certificado - Módulo 02 📃🎉
 
 <p align="center">
-  <img alt="certificado_ramon" src=".github/certificado_mod02.PNG">
+  <img alt="certificado_ramon2" src=".github/certificado_mod02.PNG">
+</p>
+
+## Meu Certificado - Módulo 03 📃🎉
+
+<p align="center">
+  <img alt="certificado_ramon3" src=".github/certificado_mod03.PNG">
 </p>
 
 ## Tecnologias 🛠
